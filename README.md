@@ -1,15 +1,15 @@
 ## 🛠 Tech Stack
-Languages:
+**Languages**:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-Frameworks:
+**Frameworks**:
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 
-Os & Devops:
+**Os & Devops**:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
@@ -21,7 +21,7 @@ Os & Devops:
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 
-Data:
+**Data**:
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
