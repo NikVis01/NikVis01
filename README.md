@@ -11,36 +11,15 @@
 
 ---
 
-## Hackathons
-(Order: latest most recent, tools used, and role included)
 ## 🚀 Hackathons
-*(latest first, includes tools used and role)*
-- **Legora x OpenAI** — *PhD & Thesis contact automation tool*  
-  Finalist (only non-profit product).  
-  **Tools:** Python, SQL (Data Engineering, Retrieval, Web Scraping)  
-  **Role:** Data Engineer  
+## 🚀 Hackathons
+- **Legora x OpenAI** — *pmatch* — PhD & Thesis contact automation · Python, SQL · Data Eng  
 - **Nordic Software Summit** — *Tone*  
 - **Antler VC x KTH AI Society** — *Tone*  
-- **Project Europe x Project Lovable x ElevenLabs** — *Tone*  
-  <1% acceptance rate, won ElevenLabs prize.  
-  Sales copilot for full sales cycle (pre, live, post call).  
-  **Tools:** TypeScript  
-  **Role:** Ideation, Leadership, Backend, Agentic Logic  
-- **AWS x Couchbase** — *SmartPyLogger*  
-  First Python package: middleware + logging in one.  
-  **Tools:** Python (backend API, data mgmt), Go (request sniffing)  
-  **Role:** Backend Engineer  
-- **Google** — *Unnamed project*  
-  Purely improvised. Poor event management due to startup “Cillers”.  
-- **Mashup x Neo4j x Google** — *Bull AI*  
-  Data pipeline merging bull semen data from 2 German websites → Postgres DB → auto-PDFs.  
-  **Tools:** Python, PostgreSQL  
-  **Role:** Web Scraping, Data Engineering  
-- **Azure x SSE Business Lab** — *Achki*, YOLOv8 surveillance system monitoring multiple video streams.
-  **Role:** Linux + Cloud Engineer  
-- **Modal x Founders House** — *Logistix*  
-  Shitty GPT wrapper for logistics optimization (“eBay for logistics tasks”). 
+- **Project Europe × Lovable × ElevenLabs** *Tone* — Sales copilot · TypeScript · Lead · Backend  
+- **AWS × Couchbase** — *SmartPyLogger* · Python, Go · Backend · Middleware  
+- **Google** — Shitly organised hackathon due to "Cillers" hackathon company.
+- **Mashup × Neo4j × Google** — *Bull AI* · Python, PostgreSQL · Scraping + Data Eng  
+- **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
+- **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper
 ---
-
-## 📈 GitHub Stats
-![NikVis01's GitHub stats](https://github-readme-stats.)
