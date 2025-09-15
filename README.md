@@ -1,7 +1,6 @@
 # Niklavs Visockis
-### ML / AI / Comp Eng  
-### Software Dev @ KTH AI Society (Twiga project)  
-### Studying EE & CE @ KTH Royal Institute of Technology 2nd Year
+- Software Dev @ KTH AI Society (Twiga project)
+- Studying EE & CE @ KTH Royal Institute of Technology 2nd Year
 
 ## 🛠 Tech Stack
 Languages:
