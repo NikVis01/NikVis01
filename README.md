@@ -48,4 +48,5 @@
 - **Mashup × Neo4j × Google** — *Bull AI* · Python, PostgreSQL · Scraping + Data Eng  
 - **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
 - **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper.
-None of these would have been possible without my amazing teammates and friends handling everything from full-stack to agentic implementations, huge shoutout to them. They can be found in each project repo.
+
+- None of these would have been possible without my amazing teammates, great friends, and people I would regard as mentors. They can be found in each project repo.
