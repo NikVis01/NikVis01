@@ -1,4 +1,4 @@
-### Hi.
+### Where I'm at
 - AI Software Engineer @ KTH AI Society Twiga Edtech Project
 - 2nd year EE and CE Student @ KTH Royal Institute of Technology
 
@@ -38,7 +38,7 @@
 
 **Will Learn**: CUDA, Rust, MLOps
 
-### 🚀 Hackathons
+### Hackathons
 - **Legora x OpenAI** — *pmatch* — PhD & Thesis contact automation · Python, SQL · Data Eng  
 - **Nordic Software Summit** — *Tone*  
 - **Antler VC x KTH AI Society** — *Tone*  
@@ -48,4 +48,4 @@
 - **Mashup × Neo4j × Google** — *Bull AI* · Python, PostgreSQL · Scraping + Data Eng  
 - **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
 - **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper.
-
+None of these would have been possible without my amazing teammates and friends handling everything from full-stack to agentic implementations, huge shoutout to them. They can be found in each project repo.
