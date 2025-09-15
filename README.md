@@ -1,7 +1,3 @@
-# Niklavs Visockis
-- Software Dev @ KTH AI Society (Twiga project)
-- Studying EE & CE @ KTH Royal Institute of Technology 2nd Year
-
 ## 🛠 Tech Stack
 Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
