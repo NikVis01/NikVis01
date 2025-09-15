@@ -13,16 +13,33 @@
 
 ## Hackathons
 (Order: latest most recent, tools used, and role included)
-**Legora x OpenAI** - PhD & Thesis contact automation tool. Only finalist with a non-profit product. Data Engineering, Retrieval, Web Scraping with Python and SQL.
-**Nordic Software Summit** - "Tone"
-**Antler VC x KTH AI Society** - "Tone"
-**Project Europe x Project Lovable x ElevenLabs** - "Tone", <1% acceptance rate, won ElevenLabs prize. Sales copilot for the entire sales experience (pre, live, post call): Ideation, Leadership, Backend, and Agentic logic with TypeScript.
-**AWS x Couchbase** - "SmartPyLogger", my first Python package for middleware and logging at the same time. Backend API and data management implemented in Python, and request-sniffing written in Golang. 
-**Google** - Total fluke and purely vibecoded. Poor event organization & management due to hackathon startup "Cillers".
-**Mashup x Neo4j x Google** - "Bull AI", one of my favorites to date. We built a data pipeline to merge bull semen data from 2 poorly designed German websites into one Postgres database and generate PDFs based on them for each bull. My job was to implement web scraping and Data Engineering.
-**Azure x SSE Business Lab** - "Achki", a YOLOv8-based surveillance tool that, given streams of video, can monitor up to n amount of streams. My job was to implement ffmpeg streaming, distributed inference via Azure, and cloud deployment. 
-**Modal x Founders House** - "Logistix" - Super shitty GPT wrapper for a logistics optimization tool I had an idea to make. Ebay for logistics tasks. Trial by fire. 
-
+## 🚀 Hackathons
+*(latest first, includes tools used and role)*
+- **Legora x OpenAI** — *PhD & Thesis contact automation tool*  
+  Finalist (only non-profit product).  
+  **Tools:** Python, SQL (Data Engineering, Retrieval, Web Scraping)  
+  **Role:** Data Engineer  
+- **Nordic Software Summit** — *Tone*  
+- **Antler VC x KTH AI Society** — *Tone*  
+- **Project Europe x Project Lovable x ElevenLabs** — *Tone*  
+  <1% acceptance rate, won ElevenLabs prize.  
+  Sales copilot for full sales cycle (pre, live, post call).  
+  **Tools:** TypeScript  
+  **Role:** Ideation, Leadership, Backend, Agentic Logic  
+- **AWS x Couchbase** — *SmartPyLogger*  
+  First Python package: middleware + logging in one.  
+  **Tools:** Python (backend API, data mgmt), Go (request sniffing)  
+  **Role:** Backend Engineer  
+- **Google** — *Unnamed project*  
+  Purely improvised. Poor event management due to startup “Cillers”.  
+- **Mashup x Neo4j x Google** — *Bull AI*  
+  Data pipeline merging bull semen data from 2 German websites → Postgres DB → auto-PDFs.  
+  **Tools:** Python, PostgreSQL  
+  **Role:** Web Scraping, Data Engineering  
+- **Azure x SSE Business Lab** — *Achki*, YOLOv8 surveillance system monitoring multiple video streams.
+  **Role:** Linux + Cloud Engineer  
+- **Modal x Founders House** — *Logistix*  
+  Shitty GPT wrapper for logistics optimization (“eBay for logistics tasks”). 
 ---
 
 ## 📈 GitHub Stats
