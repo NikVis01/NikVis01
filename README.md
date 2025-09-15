@@ -36,6 +36,8 @@
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
+**Will Learn**: CUDA, Rust, MLOps
+
 ### 🚀 Hackathons
 - **Legora x OpenAI** — *pmatch* — PhD & Thesis contact automation · Python, SQL · Data Eng  
 - **Nordic Software Summit** — *Tone*  
@@ -47,7 +49,3 @@
 - **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
 - **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper.
 
-### 📚 Want to learn
-- MLOps
-- Rust
-- CUDA programming
