@@ -1,4 +1,4 @@
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 **Languages**:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -32,9 +32,7 @@
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
----
-
-## 🚀 Hackathons
+### 🚀 Hackathons
 - **Legora x OpenAI** — *pmatch* — PhD & Thesis contact automation · Python, SQL · Data Eng  
 - **Nordic Software Summit** — *Tone*  
 - **Antler VC x KTH AI Society** — *Tone*  
