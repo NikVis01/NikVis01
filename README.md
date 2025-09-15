@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Niklavs Visockis
-
+# Niklavs Visockis
 🔴 ML / AI / Comp Eng  
 ⚡ Software Dev @ KTH AI Society (Twiga project)  
 📚 Studying EE & CE @ KTH  
@@ -8,8 +7,10 @@
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
+
 
 ---
 
