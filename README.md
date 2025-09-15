@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1))
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 
 ---
 
