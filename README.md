@@ -1,3 +1,7 @@
+### Hi.
+- AI Software Engineer @ KTH AI Society Twiga Edtech Project
+- 2nd year EE and CE Student @ KTH Royal Institute of Technology
+
 ### 🛠 Tech Stack
 **Languages**:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -41,5 +45,9 @@
 - **Google** — Shitly organised hackathon due to "Cillers" hackathon company.
 - **Mashup × Neo4j × Google** — *Bull AI* · Python, PostgreSQL · Scraping + Data Eng  
 - **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
-- **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper
----
+- **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper.
+
+### 📚 Want to learn
+- MLOps
+- Rust
+- CUDA programming
