@@ -27,4 +27,4 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
 
-**Will Learn**: CUDA, Rust, MLOps
+**What I do**: APIs, Backend, AI Eng
