@@ -6,7 +6,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 
 **Frameworks**:
-[![CUDA]](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)(#)
+[![CUDA]](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
