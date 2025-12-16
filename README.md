@@ -29,15 +29,3 @@
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
 
 **Will Learn**: CUDA, Rust, MLOps
-
-### Hackathons
-- **{Tech: Europe} x OpenAI** — *njm* — Extending maximal length of Sora 2 videos from 12 to 36 seconds · Python · Agentic · FastAPI
-- **Legora x OpenAI** — *pmatch* — PhD & Thesis contact automation · Python, SQL · Data Eng  
-- **Nordic Software Summit** — *Tone*  
-- **Antler VC x KTH AI Society** — *Tone*  
-- **Project Europe × Lovable × ElevenLabs** *Tone* — Sales copilot · TypeScript · Lead · Backend  
-- **AWS × Couchbase** — *SmartPyLogger* · Python, Go · Backend · Middleware  
-- **Google** — Shitly organised hackathon due to "Cillers" hackathon company.
-- **Mashup × Neo4j × Google** — *Bull AI* · Python, PostgreSQL · Scraping + Data Eng  
-- **Azure × SSE Business Lab** — *Achki* · YOLOv8, ffmpeg, Azure · Streaming · Cloud · Lead 
-- **Modal × Founders House** — *Logistix* · Python · Bullshit wrapper.
